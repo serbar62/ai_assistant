@@ -1,8 +1,7 @@
 # ИИ ассистент для компании по установке окон
 Ссылка на проект:  @TeleStrahovka_bot
 
-![image](https://github.com/user-attachments/assets/b14a33d4-c63e-4ca1-b9a7-47eb4fa2d447)
-
+![image](https://github.com/serbar62/ai_assistant/blob/main/Скриншот%20телеграм.jpg)
 
 ## Описание решения
 
@@ -62,6 +61,8 @@
 - **Ассистент:** "Конечно! Когда вам будет удобно встретиться с нашим специалистом? Мы можем предложить [дата и время]."
 
 После согласования времени ассистент создает событие в Google Календаре и отправляет подтверждение клиенту.
+
+![image](https://github.com/user-attachments/assets/b14a33d4-c63e-4ca1-b9a7-47eb4fa2d447)
 
 ---
 
